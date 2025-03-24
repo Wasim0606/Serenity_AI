@@ -1,0 +1,17 @@
+# Core dependencie
+gradio==4.13.0
+transformers==4.36.2
+accelerate==0.25.0
+safetensors==0.4.1
+sentencepiece==0.1.99
+protobuf==4.24.4
+datasets==2.15.0
+
+# Audio processing
+librosa==0.10.1
+soundfile==0.12.1
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+tqdm==4.66.1
